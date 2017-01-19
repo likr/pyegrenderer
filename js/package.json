@@ -29,6 +29,8 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.20.0",
+    "d3": "^4.4.2",
+    "eg-renderer-canvas": "git+https://github.com/likr/eg-renderer-canvas.git",
     "jupyter-js-widgets": "^1.1.1",
     "underscore": "^1.8.3",
     "webcomponents.js": "^0.7.23"
